@@ -1,0 +1,2 @@
+# LearningSql
+ MSSQL Learning notes
