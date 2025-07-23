@@ -369,7 +369,3 @@ EXEC sp_describe_first_result_set N'SELECT * FROM Personel WHERE 1=0';
 -- • Kimlik sütununa doğrudan değer atamak gerekiyorsa IDENTITY_INSERT kullan.
 -- • Performans izle: indeks, execution plan, istatistik (SET STATISTICS IO, TIME ON).
 -- • Sorgu parçala / CTE kullan / indeks tavsiye edici DMV’leri incele.
-
--- =============================================
---  DOSYA SONU — Yeni başlık ekle → blok aç, örnek koy
--- =============================================
